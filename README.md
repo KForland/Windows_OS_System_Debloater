@@ -1,6 +1,6 @@
-Safe Windows System Debloater
+Windows System Debloater
 
-Safe Windows System Debloater is a lightweight Windows utility that disables or restores selected non-essential Windows services and features using only native Windows mechanisms. It is designed to reduce background noise, ads, and unused services without breaking core system functionality.
+Windows System Debloater is a lightweight Windows utility that disables or restores selected non-essential Windows services and features using only native Windows mechanisms. It is designed to reduce background noise, ads, and unused services without breaking core system functionality.
 
 The tool operates entirely through built-in Windows commands such as sc and reg. It does not delete files, install services, create scheduled tasks, or add persistence of any kind.
 
