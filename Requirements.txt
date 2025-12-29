@@ -1,0 +1,2 @@
+# No external Python dependencies
+# Uses only Python standard library and native Windows tools
